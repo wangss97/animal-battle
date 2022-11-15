@@ -10,4 +10,4 @@ There are some little shortcomings about PC`s intelligence in this program remai
 电脑的智商可能有时候会出现一些小问题，目前存在的两个是来回移动一个棋子不发起进攻，或者一直追着你走（这个我没有实现对一个棋子反复在两个格子上来回走的检测...）  
 但不是什么大问题，233333  就这样~
 
-![display](/assets/display.jpg)
+<img src="/assets/display.jpg" width = "60%" />
